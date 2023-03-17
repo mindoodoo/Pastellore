@@ -1,0 +1,21 @@
+{
+  "name": "pastellore",
+  "displayName": "pastellore",
+  "description": "Minimalistic pastel based light theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastellore",
+        "uiTheme": "vs",
+        "path": "./themes/Pastellore-color-theme.json"
+      }
+    ]
+  }
+}
