@@ -1,9 +1,8 @@
 {
 	"name": "Pastellore",
 	"colors": {
-		"editor.background": "#f5f5f5",
+		"editor.background": "#FFF4E0",
 		"editor.foreground": "#333333",
-        "list.activeSelectionIconForeground": "#fff"
 	},
 	"tokenColors": [
 		{
